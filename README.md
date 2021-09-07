@@ -6,7 +6,7 @@
     
      - neural network (implemented a FNN trained with MNIST in c++ with eigen only),
     
-     - OS/compiler (very beggining of bootloader&kernel so far)
+     - OS&compiler (very beggining of bootloader&kernel so far)
     
 
 - 🧾 My goals are:
