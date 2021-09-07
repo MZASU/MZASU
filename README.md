@@ -4,7 +4,7 @@
 
      - computer graphics engine (Vulkan),
     
-     - neural network (implemented a FNN trained with MNIST in c++/eigen),
+     - neural network (implemented a FNN trained with MNIST in c++ with eigen only),
     
      - OS/compiler (very beggining of bootloader&kernel so far)
     
