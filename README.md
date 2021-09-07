@@ -1,8 +1,13 @@
 - 👋 Hi, I’m @MZASU
 - 👀 I’m interested in computer, games and climbing
-- 🌱 I’m currently learning: computer graphics engine (Vulkan),
-                              neural network (implemented a FNN trained with MNIST in c++/eigen),
-                              OS/compiler (very beggining of bootloader&kernel so far)
+- 🌱 I’m currently learning: 
+
+     - computer graphics engine (Vulkan),
+    
+     - neural network (implemented a FNN trained with MNIST in c++/eigen),
+    
+     - OS/compiler (very beggining of bootloader&kernel so far)
+    
 
 - 🧾 My goals are:
 
