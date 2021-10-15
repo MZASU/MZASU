@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MZASU
-- 👀 I’m interested in computer, games and climbing
-- 🌱 I’m currently interested in: 
+- 👀 I’m currently interested in: 
 
      - Computer graphics engine (Vulkan)
     
