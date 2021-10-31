@@ -6,8 +6,6 @@
      - Neural Networks (implemented a FNN trained with MNIST in c++ with eigen only),
     
      - OS development 
-    
-     - Learn enough AndroidDev to write small apps that come to my mind ( good metronome, texas hold'em money balance with blinds/dealer etc) 
 
      - Have basic knowledge of security 
                    
