@@ -3,7 +3,7 @@
 
      - Computer graphics engine (Vulkan)
     
-     - Neural Networks (implemented a FNN trained with MNIST in c++ with eigen only),
+     - Neural Networks (see [MZASU/Pandas](https://github.com/MZASU/Pandas)),
     
      - OS development 
 
