@@ -1,15 +1,15 @@
 - 👋 Hi, I’m @MZASU
-- 👀 I’m currently interested in: 
+- ⌨️ Currently working on: 
 
-     - Computer graphics engine (Vulkan)
-    
      - Neural Networks (see [MZASU/Pandas](https://github.com/MZASU/Pandas)),
     
-     - OS development 
+     - OS development (64bit OS in C)
 
-     - Have basic knowledge of security 
-                   
-- 👾 On a quest to master Vim
+- 🍿 Interrested in 
+
+     - Graphics Engine (Vulkan)
+
+     - Security (cryptography & hacks)
 <!---
 MZASU/MZASU is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
