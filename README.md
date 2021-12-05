@@ -1,13 +1,13 @@
 - 👋 Hi, I’m @MZASU
 - ⌨️ Currently working on: 
 
-     - Neural Networks (see [MZASU/Pandas](https://github.com/MZASU/Pandas)),
+     - Graphics Engine (Vulkan)     
     
      - OS development (64bit OS in C)
 
 - 🍿 Interrested in 
 
-     - Graphics Engine (Vulkan)
+     - Neural Networks (see [MZASU/Pandas](https://github.com/MZASU/Pandas)),
 
      - Security (cryptography & hacks)
 <!---
