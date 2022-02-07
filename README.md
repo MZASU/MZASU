@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MZASU
 - ⌨️ Currently working on: 
 
-     - Graphics Engine (Vulkan)     
+     - Graphics Engine (OpenGL/Vulkan)     
     
      - OS development (64bit OS in C)
 
